@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>ownCloud</string>
+	<string>ZenCloud</string>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
@@ -59,7 +59,7 @@
 		<string>Default-Landscape_414h@3x.png</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>com.owncloud.iOSmobileapp</string>
+	<string>cz.zensys.owncloud.iOSmobileapp</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
