@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>ZenCloud</string>
+	<string>ZensysCloud</string>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>

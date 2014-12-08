@@ -26,8 +26,6 @@
 	<dict>
 		<key>NSExtensionAttributes</key>
 		<dict>
-			<key>UIDocumentPickerModes</key>
-			<array/>
 			<key>UIDocumentPickerSupportedFileTypes</key>
 			<array>
 				<string>public.content</string>
